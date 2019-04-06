@@ -24,11 +24,10 @@ email = "cl.alfaro.vega@gmail.com"
 # List (academic) interests or hobbies
 Tratamientos = [
   "Operatoria dental",
-  "Periodoncia"
-  "Protesis removibles"
-  "Protesis fijas unitarias y plurales"
-  "Atención pediátrica"
-]
+  "Periodoncia",
+  "Protesis removibles",
+  "Protesis fijas unitarias y plurales",
+  "Atención pediátrica"]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
