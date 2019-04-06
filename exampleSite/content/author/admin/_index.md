@@ -24,9 +24,9 @@ email = "cl.alfaro.vega@gmail.com"
 # List (academic) interests or hobbies
 Tratamientos = [
   "Operatoria dental",
-  "Periodoncia",
-  "Protesis removibles",
-  "Protesis fijas unitarias y plurales",
+  "Periodoncia"
+  "Protesis removibles"
+  "Protesis fijas unitarias y plurales"
   "Atención pediátrica"
 ]
 
