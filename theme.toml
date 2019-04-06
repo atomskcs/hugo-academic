@@ -1,32 +1,18 @@
-name = "Academic"
+name = "Hugo Lodi Theme"
 license = "MIT"
-licenselink = "https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md"
-description = "The website designer for Hugo. Build anything and deploy with one click! Fully customizable with themes, plugins, and language packs."
-homepage = "https://sourcethemes.com/academic/"
-min_version = "0.53"
-tags = ["academic",
-        "portfolio",
-        "responsive",
-        "student",
-        "personal",
-        "university",
-        "blog",
-        "minimal"
-        ]
-features = ["academic profile",
-            "research publication system",
-            "projects",
-            "blog",
-            "teaching",
-            "contact"
-            ]
+licenselink = "https://github.com/xaviablaza/yourtheme/blob/master/LICENSE.md"
+description = "Hugo Lodi Theme ported to Hugo by Xavi Ablaza"
+homepage = "https://github.com/xaviablaza/hugo-lodi-theme"
+tags = ["lodi", "responsive", "hero", "personal", "portfolio", "case study", "ux"]
+features = ["homepage", "case studies", "process"]
+min_version = "0.29"
 
 [author]
-  name = "George Cushen"
-  homepage = "https://georgecushen.com"
+  name = "Xavi Ablaza"
+  homepage = "https://github.com/xaviablaza"
 
 # If porting an existing theme
 [original]
-  name = ""
-  homepage = ""
-  repo = ""
+  author = "Alexis Collado"
+  name = "Portfolio"
+  homepage = "http://www.alexiscollado.com"
