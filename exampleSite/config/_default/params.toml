@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "1950s"
+color_theme = "dark"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -65,8 +65,8 @@ appointment_url = ""
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
@@ -89,7 +89,7 @@ map = 1
 map_api_key = "AIzaSyCAT5dk0rknJUIRjU5c3zhyAyBTEoFMmeU"
 latitude = "-23.653135"
 longitude = "-70.402371"
-zoom = 15
+zoom = 10
 
 ############################
 ## Plugins                ##
